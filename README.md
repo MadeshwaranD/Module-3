@@ -56,7 +56,6 @@ print(l1)
 Thus, the program has been successfully executed.
 
 
-# Module-3
 # 🧹 Strings-Remove Nth Index Character from a String
 
 ## 🎯 Aim
@@ -89,6 +88,7 @@ remove(a,n)
 ## Result
 Thus the program has# Strings-Palindrome Check in Python (Without Built-in Functions)
 
+# Strings-Palindrome Check in Python (Without Built-in Functions)
 ## 🎯 Aim
 To write a Python program to check whether the string `"google"` is a **palindrome** or not, without using built-in palindrome checking functions.
 
